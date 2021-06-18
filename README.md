@@ -1,0 +1,1 @@
+# cookie-consent-gtm-templates-variable
