@@ -1,5 +1,5 @@
 homepage: "www.cookiewow.com"
 documentation: "https://help.cookiewow.com/th/article/google-analytics-anonymous-google-analytics-gtm-15c7rdb/"
 versions:
-  - sha:  5a94562
+  - sha:  de2e57f54cb795b617a733a0a12d9410bf1214b7
     changeNotes: Initial release.
